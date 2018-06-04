@@ -18,7 +18,7 @@ import { RecipeItemComponent} from './recipes/recipe-list/recipe-item/recipe-ite
     RecipesComponent,
     RecipeListComponent,
     RecipeDetailsComponent,
-ShoppingEditComponent, 
+ShoppingEditComponent,
 ShoppingListComponent,
 RecipeItemComponent
   ],
